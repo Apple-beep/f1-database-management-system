@@ -1,0 +1,21 @@
+CarID,TeamID,DriverID,Engine Type,Weight,AerodynamicsPackage
+44,Mercedes,Lewis Hamilton,V6 Turbo Hybrid,753,High Downforce
+63,Mercedes,George Russell,V6 Turbo Hybrid,753,High Downforce
+1,Red Bull Racing,Max Verstappen,V6 Turbo Hybrid,755,Low Drag
+11,Red Bull Racing,Sergio Perez,V6 Turbo Hybrid,753.5,Low Drag
+16,Ferrari,Charles Leclerc,V6 Turbo Hybrid,748,Balanced Package
+55,Ferrari,Carlos Sainz,V6 Turbo Hybrid,750.2,High Downforce
+4,McLaren,Lando Norris,V6 Turbo Hybrid,751.5,Low Drag
+81,McLaren,Oscar Piastri,V6 Turbo Hybrid,754,Low Drag
+14,Aston Martin,Fernando Alonso,V6 Turbo Hybrid,756.4,Balanced Package
+18,Aston Martin,Lance Stroll,V6 Turbo Hybrid,754.8,Balanced Package
+77,Alpha Romeo,Valtteri Bottas,V6 Turbo Hybrid,749,High Downforce
+24,Alpha Romeo,Zhou Guanyu,V6 Turbo Hybrid,750.5,Balanced Package
+20,Haas,Kevin Magnussen,V6 Turbo Hybrid,751,Low Drag
+27,Haas,Nico Hulkenberg,V6 Turbo Hybrid,752.2,Balanced Package
+31,Alpine,Esteban Ocon,V6 Turbo Hybrid,750.8,High Downforce
+10,Alpine,Pierre Gasly,V6 Turbo Hybrid,753.6,Balanced Package
+23,Williams,Alexander Albon,V6 Turbo Hybrid,748.5,Low Drag
+2,Williams,Logan Sargeant,V6 Turbo Hybrid,749.3,Low Drag
+3,AlphaTauri,Daniel Ricciardo,V6 Turbo Hybrid,750.7,Balanced Package
+22,AlphaTauri,Yuki Tsunda,V6 Turbo Hybrid,751.4,Low Drag

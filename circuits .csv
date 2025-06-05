@@ -1,0 +1,22 @@
+CircuitID,CircuitName,Location,LauchYear,LapCount,CircuitLength
+C1,Bahrain International Circuit,Bahrain,2004,57,5.412
+C2,Jeddah Street Circuit,Saudi Arabian,2021,50,6.174
+C3,Albert Park,Australian,1985,58,5.278
+C4,Baku City Circuit,Azerbaijan,2016,51,6.003
+C5,Miami International Autodrome,Miami,2022,57,5.412
+C6,Circuit DE Monaco,Monaco,1950,78,3.337
+C7, Circuit de Barcelona-Catalunya,Spanish,1991,66,4.675
+C8,Circuit Gilles Villeneuve,Canadian,1967,70,4.361
+C9,Red Bull Ring,Austrian,1964,71,4.318
+C11,Hungaro Ring,Hungarian,1986,70,4.381
+C12,SPA- Francorchamps,Belgian,1950,44,7.004
+C13,Circuit Zandvoort,Dutch,1952,72,4.259
+C14,Autodromo Nazionale Monza,Italian,1950,53,5.793
+C15,Marina Bay Street Circuit,Singapore,2008,61,5.063
+C16,Suzuka Circuit,Japansese,1976,53,5.807
+C17,Losail International Circuit ,Qatar,2021,57,5.38
+C18,Circuit Of The Americas,United States,1959,56,5.513
+C19,Autodromo Hermanos Rodriguez,Mexican,1963,71,4.304
+C20,Autodromo Jose Carlos Pace Interlangos,Brazilian,1973,71,4.309
+C21,Las Vegas Street Circuit ,Las Vegas,2023,50,6.12
+C22,Yas Marina Circuit ,Abu Dhabi,2009,58,5.281
